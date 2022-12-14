@@ -1,0 +1,166 @@
+{
+    "questions": [
+        {
+            "questionText": "O que é Libras?",
+            "options": [{
+                    "text": "Linguagem de mimica para surdos"
+                },
+                {
+                    "text": "Língua Brasileira de Sinais",
+                    "correct": true
+                },
+                {
+                    "text": "Linguagem Brasileira de Sinais"
+                },
+                {
+                    "text": "Língua de Gestos para Surdos"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "LIBRAS foi baseado em que outra língua de sinais?",
+            "options": [{
+                    "text": "Língua de sinais Portuguesa"
+                },
+                {
+                    "text": "Língua de sinais Francesa",
+                    "correct": true
+                },
+                {
+                    "text": "Língua de sinais Inglesa"
+                },
+                {
+                    "text": "Língua de sinais Americana"
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "Libras é:",
+            "options": [{
+                    "text": "Uma língua universalmente usada pelos surdos"
+                },
+                {
+                    "text": "Uma língua com a mesma gramática do português"
+                },
+                {
+                    "text": "Uma língua usada apenas no Brasil",
+                    "correct": true
+                },
+                {
+                    "text": "Uma língua apenas usada no Brasil e com a mesma gramática do português"
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Quando foi instaurada a Lei Federal que regulamentou o uso de Libras no Brasil?",
+            "options": [{
+                    "text": "24 de abril de 2002",
+                    "correct": true
+                },
+                {
+                    "text": "24 de agosto de 1998"
+                },
+                {
+                    "text": "19 de abril de 2003"
+                },
+                {
+                    "text": "19 de agosto de 2002"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "Qual é o dia nacional do surdo?",
+            "options": [{
+                    "text": "26 de janeiro"
+                },
+                {
+                    "text": "26 de setembro",
+                    "correct": true
+                },
+                {
+                    "text": "29 de maio"
+                },
+                {
+                    "text": "29 de outubro"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "O que é AADAS?",
+            "options": [{
+                    "text": "Associação de atendimento aos deficientes auditivos e surdos"
+                },
+                {
+                    "text": "Atendimento adequado para deficientes auditivos e surdos"
+                },
+                {
+                    "text": "Associação de apoio ao deficiente auditivo e surdos",
+                    "correct": true
+                },
+                {
+                    "text": "Associação atlética de deficientes auditivos e surdos"
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "Pensando na comunicação podemos afirmar que: ",
+            "options": [{
+                    "text": "Todos os surdos se comunicam com Libras"
+                },
+                {
+                    "text": "Os surdos são oralizados e todos se comunicam com Libras"
+                },
+                {
+                    "text": "Todos os surdos são oralizados desde criança"
+                },
+                {
+                    "text": "Alguns surdos são oralizados e outros usam Libras",
+                    "correct": true
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "O que é datilologia?",
+            "options": [{
+                    "text": "Usar tecnologia para digitar as palavras em português"
+                },
+                {
+                    "text": "Soletrar palavras em Libras"
+                },
+                {
+                    "text": "Comunicação de sinais através dos dedos",
+                    "correct": true
+                },
+                {
+                    "text": "Não faço a mínima ideia!"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "Quantas são as configurações de mãos em libras?",
+            "options": [{
+                    "text": "Existem 97 ao todo"
+                },
+                {
+                    "text": "Existem 26 ao todo"
+                },
+                {
+                    "text": "Existem 46 ao todo",
+                    "correct": true
+                },
+                {
+                    "text": "Existem 133 ao todo"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}

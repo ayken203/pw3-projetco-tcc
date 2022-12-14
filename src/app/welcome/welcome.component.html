@@ -1,0 +1,17 @@
+<div class="container bg-light py-5">
+    <h1 class="display-5 fw-bold">Bem vindo ao Quiz Ensilibras</h1>
+    <p class="col-md-8 fs-4">Este quiz contém 9 questões. Cada questão vale 10 Pontos</p>
+    <h4>Instruções:</h4>
+    <ol>
+        <li>Acertos = +10 pontos</li>
+        <li>Erros = -10 pontos</li>
+        <li>Você tem 60 segundos para responder cada questão</li>
+        <li>Atualizar a pagína irá resetar o quiz</li>
+    </ol>
+    <h1 style="font-family: cursive;text-align:center">Divirta-se!!!</h1>
+    <div class="name col-md-4 my-3">
+        <label for="">Insira seu nome:</label>
+        <input #name type="text" class="form-control">
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Iniciar Quiz</button>
+</div>
